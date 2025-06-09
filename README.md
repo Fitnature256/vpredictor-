@@ -28,5 +28,3 @@ A simple web-based application that helps you predict the outcome of BetPawa Vir
 ```bash
 git clone https://github.com/YOUR_USERNAME/betpawa-virtuals-predictor.git
 cd betpawa-virtuals-predictor
-pip install -r requirements.txt
-python app.py
